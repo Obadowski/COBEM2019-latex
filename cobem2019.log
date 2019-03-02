@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.2)  2 MAR 2019 18:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.2)  2 MAR 2019 20:27
 entering extended mode
-**./cobem2019.tex
-(cobem2019.tex
+**"C:/Users/vobad/OneDrive/Estudos/USP/COBEM 2019/LaTeX/cobem2019.tex"
+("C:/Users/vobad/OneDrive/Estudos/USP/COBEM 2019/LaTeX/cobem2019.tex"
 LaTeX2e <2018-12-01>
 ("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -14,8 +14,7 @@ Already applied: [0000/00/00] Make \[ robust on input line 62.
 Applying: [2015/01/01] Make \] robust on input line 74.
 LaTeX Info: Redefining \] on input line 75.
 Already applied: [0000/00/00] Make \] robust on input line 83.
-)
-("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
+) ("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
 File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 )
 \c@part=\count80
@@ -29,7 +28,7 @@ File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen103
-) (abcm.sty
+) ("C:\Users\vobad\OneDrive\Estudos\USP\COBEM 2019\LaTeX\abcm.sty"
 ("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ccaption\ccaption.
 sty"
 Package: ccaption 2011/08/07 v3.2c Extended captioning and new floats
@@ -38,10 +37,9 @@ Package: ccaption 2011/08/07 v3.2c Extended captioning and new floats
 \abovelegendskip=\skip45
 \belowlegendskip=\skip46
 \c@newflo@tctr=\count88
-)
-("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty"
+) ("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty
+"
 Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
-
 ("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1enc.def"
 File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
@@ -58,7 +56,6 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 ("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
 sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
-
 ("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
@@ -88,8 +85,8 @@ s
 \f@nch@O@erf=\skip53
 \f@nch@O@olf=\skip54
 \f@nch@O@orf=\skip55
-)
-("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\helvet.sty"
+) ("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\helvet.st
+y"
 Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
 )
 ("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/floatflt\floatflt.
@@ -118,7 +115,6 @@ Package: floatflt 1997/07/16 v. 1.31
 ("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/colortbl\colortbl.
 sty"
 Package: colortbl 2018/12/12 v1.0d Color table columns (DPC)
-
 ("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
 Package: array 2018/11/13 v2.4j Tabular extension package (FMi)
 \col@sep=\dimen114
@@ -128,9 +124,8 @@ Package: array 2018/11/13 v2.4j Tabular extension package (FMi)
 \extratabsurround=\skip56
 \backup@length=\skip57
 \ar@cellbox=\box31
-)
-("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.sty
-"
+) ("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.s
+ty"
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
 ("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color
@@ -145,7 +140,7 @@ Package color Info: Driver file: pdftex.def on input line 147.
 ("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyvrb\fancyvrb.
 sty"
 Package: fancyvrb 2019/01/15
- Style option: `fancyvrb' v3.2a <2019/01/15> (tvz)
+Style option: `fancyvrb' v3.2a <2019/01/15> (tvz)
 \FV@CodeLineNo=\count96
 \FV@InFile=\read1
 \FV@TabBox=\box32
@@ -161,8 +156,8 @@ y"
 \WF@box=\box33
 \WF@everypar=\toks18
 Package: wrapfig 2003/01/31  v 3.6
-)
-("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty"
+) ("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.st
+y"
 Package: babel 2018/11/13 3.27 The Babel package
 ("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.def
 "
@@ -178,7 +173,6 @@ File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
 ("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-english\engl
 ish.ldf"
 Language: english 2017/06/06 v3.3r English support from the babel system
-
 ("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def"
 File: babel.def 2018/11/13 3.27 Babel common definitions
 \babel@savecnt=\count100
@@ -191,14 +185,14 @@ ef")
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
-))
-("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/natbib\natbib.sty"
+)) ("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/natbib\natbib.s
+ty"
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip59
 \bibsep=\skip60
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count102
-)) (cobem2019.aux)
+)) ("C:\Users\vobad\OneDrive\Estudos\USP\COBEM 2019\LaTeX\cobem2019.aux")
 \openout1 = `cobem2019.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -214,7 +208,6 @@ LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Try loading font information for T1+ptm on input line 12.
-
 ("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\t1ptm.fd"
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
@@ -319,20 +312,19 @@ Overfull \hbox (7.0868pt too wide) in paragraph at lines 13--29
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1
+[1
 
-{C:/Users/vobad/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./cabecalho
-.pdf>]
+{C:/Users/vobad/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/vo
+bad/OneDrive/Estudos/USP/COBEM 2019/LaTeX/cabecalho.pdf>]
 <figure.jpeg, id=17, 1505.625pt x 735.74875pt>
 File: figure.jpeg Graphic file (type jpg)
 <use figure.jpeg>
-Package pdftex.def Info: figure.jpeg  used on input line 92.
+Package pdftex.def Info: figure.jpeg  used on input line 104.
 (pdftex.def)             Requested size: 1505.62134pt x 735.74695pt.
-
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-LaTeX Font Info:    Try loading font information for T1+phv on input line 132.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 141.
 ("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\t1phv.fd"
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
@@ -342,18 +334,11 @@ Make it at least 18.23401pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[2 <./figure.jpeg>] (cobem2019.bbl
+[2] ("C:\Users\vobad\OneDrive\Estudos\USP\COBEM 2019\LaTeX\cobem2019.bbl"
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 39.
-
 ("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-Underfull \hbox (badness 10000) in paragraph at lines 35--40
-[]\T1/ptm/m/n/10 Villani, E., 2004.  \T1/ptm/m/it/10 Mod-e-lagem e Análise De S
-is-temas Su-per-visórios\T1/ptm/m/n/10 .  Ph.D. the-sis.  URL
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 42--50
 []\T1/ptm/m/n/10 Xinglong, P. and Guo, H., 2011.  ``Re-search on the Ap-pli-ca-
 tion of Dis-crete Event Sys-tem
@@ -371,31 +356,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--50
 -94.  doi:10.1109/ICMTMA.2011.594.  URL
  []
 
-) [3] (cobem2019.aux) ) 
+) [3 <C:/Users/vobad/OneDrive/Estudos/USP/COBEM 2019/LaTeX/figure.jpeg>] ("C:\U
+sers\vobad\OneDrive\Estudos\USP\COBEM 2019\LaTeX\cobem2019.aux") ) 
 Here is how much of TeX's memory you used:
- 3656 strings out of 492946
- 51859 string characters out of 3126267
+ 3658 strings out of 492946
+ 52234 string characters out of 3126267
  132626 words of memory out of 3000000
  7471 multiletter control sequences out of 15000+200000
  31209 words of font info for 37 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,13n,45p,696b,341s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\vobad\AppData\Local\MiKTeX\2.9\fonts/pk/ljfou
-r/jknappen/ec/dpi600\ectt1000.pk>{C:/Users/vobad/AppData/Local/Programs/MiKTeX 
-2.9/fonts/enc/dvips/base/8r.enc}<C:/Users/vobad/AppData/Local/Programs/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/vobad/AppData/Local/Prog
-rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/vobad/AppDa
-ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users
-/vobad/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.p
-fb><C:/Users/vobad/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmr7.pfb><C:/Users/vobad/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
-lic/amsfonts/cm/cmsy10.pfb><C:/Users/vobad/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/vobad/AppData/Local/Programs/MiKTeX
- 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/vobad/AppData/Local/Programs/Mi
-KTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/vobad/AppData/Local/Progra
-ms/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/vobad/AppData/Local/Pr
-ograms/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on cobem2019.pdf (3 pages, 892872 bytes).
+ 41i,13n,45p,749b,341s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\vo
+bad\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk>{C:
+/Users/vobad/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/
+Users/vobad/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+bx10.pfb><C:/Users/vobad/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmmi10.pfb><C:/Users/vobad/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmmi7.pfb><C:/Users/vobad/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/vobad/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/vobad/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users
+/vobad/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C
+:/Users/vobad/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pf
+b><C:/Users/vobad/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmbi
+8a.pfb><C:/Users/vobad/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/
+utmr8a.pfb><C:/Users/vobad/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/ti
+mes/utmri8a.pfb>
+Output written on cobem2019.pdf (3 pages, 893453 bytes).
 PDF statistics:
  105 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
