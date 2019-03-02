@@ -1,0 +1,403 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.2)  2 MAR 2019 18:32
+entering extended mode
+**./cobem2019.tex
+(cobem2019.tex
+LaTeX2e <2018-12-01>
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fleqn.clo"
+File: fleqn.clo 2016/12/29 v1.2b Standard LaTeX option (flush left equations)
+\mathindent=\dimen102
+Applying: [2015/01/01] Make \[ robust on input line 50.
+LaTeX Info: Redefining \[ on input line 51.
+Already applied: [0000/00/00] Make \[ robust on input line 62.
+Applying: [2015/01/01] Make \] robust on input line 74.
+LaTeX Info: Redefining \] on input line 75.
+Already applied: [0000/00/00] Make \] robust on input line 83.
+)
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+) (abcm.sty
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ccaption\ccaption.
+sty"
+Package: ccaption 2011/08/07 v3.2c Extended captioning and new floats
+\@contcwidth=\skip43
+\@contindw=\skip44
+\abovelegendskip=\skip45
+\belowlegendskip=\skip46
+\c@newflo@tctr=\count88
+)
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty"
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1enc.def"
+File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
+sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
+sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancyhdr.
+sty"
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip47
+\f@nch@O@elh=\skip48
+\f@nch@O@erh=\skip49
+\f@nch@O@olh=\skip50
+\f@nch@O@orh=\skip51
+\f@nch@O@elf=\skip52
+\f@nch@O@erf=\skip53
+\f@nch@O@olf=\skip54
+\f@nch@O@orf=\skip55
+)
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\helvet.sty"
+Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/floatflt\floatflt.
+sty"
+Package: floatflt 1997/07/16 v. 1.31
+\c@OptionTest=\count89
+\figbox=\box27
+\tabbox=\box28
+\pagebox=\box29
+\ffigcount=\count90
+\ftabcount=\count91
+\fftest=\count92
+\hangcount=\count93
+\nosuccesstryfig=\count94
+\nosuccesstrytab=\count95
+\figgutter=\dimen106
+\tabgutter=\dimen107
+\htdone=\dimen108
+\pageht=\dimen109
+\startpageht=\dimen110
+\tabbredd=\dimen111
+\floatfltwidth=\dimen112
+\fltitemwidth=\dimen113
+\outputpretest=\toks15
+)
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/colortbl\colortbl.
+sty"
+Package: colortbl 2018/12/12 v1.0d Color table columns (DPC)
+
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
+Package: array 2018/11/13 v2.4j Tabular extension package (FMi)
+\col@sep=\dimen114
+\ar@mcellbox=\box30
+\extrarowheight=\dimen115
+\NC@list=\toks16
+\extratabsurround=\skip56
+\backup@length=\skip57
+\ar@cellbox=\box31
+)
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.sty
+"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color
+.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+\everycr=\toks17
+\minrowclearance=\skip58
+)
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyvrb\fancyvrb.
+sty"
+Package: fancyvrb 2019/01/15
+ Style option: `fancyvrb' v3.2a <2019/01/15> (tvz)
+\FV@CodeLineNo=\count96
+\FV@InFile=\read1
+\FV@TabBox=\box32
+\c@FancyVerbLine=\count97
+\FV@StepNumber=\count98
+\FV@OutFile=\write3
+)
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/wrapfig\wrapfig.st
+y"
+\wrapoverhang=\dimen116
+\WF@size=\dimen117
+\c@WF@wrappedlines=\count99
+\WF@box=\box33
+\WF@everypar=\toks18
+Package: wrapfig 2003/01/31  v 3.6
+)
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty"
+Package: babel 2018/11/13 3.27 The Babel package
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.def
+"
+File: switch.def 2018/11/13 3.27 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-english\engl
+ish.ldf"
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2018/11/13 3.27 Babel common definitions
+\babel@savecnt=\count100
+\U@D=\dimen118
+
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.d
+ef")
+\bbl@dirlevel=\count101
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/natbib\natbib.sty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip59
+\bibsep=\skip60
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count102
+)) (cobem2019.aux)
+\openout1 = `cobem2019.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 12.
+
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\t1ptm.fd"
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
+df.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count103
+\scratchdimen=\dimen119
+\scratchbox=\box34
+\nofMPsegments=\count104
+\nofMParguments=\count105
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count106
+\MPscratchDim=\dimen120
+\MPnumerator=\count107
+\makeMPintoPDFobject=\count108
+\everyMPtoPDFconversion=\toks20
+)
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-
+base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infware
+rr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.st
+y"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefin
+ekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds
+.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions
+.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetke
+ys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmd
+s.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluate
+x.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftexc
+mds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.s
+ty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+<cabecalho.pdf, id=1, 488.0403pt x 87.23007pt>
+File: cabecalho.pdf Graphic file (type pdf)
+<use cabecalho.pdf>
+Package pdftex.def Info: cabecalho.pdf  used on input line 13.
+(pdftex.def)             Requested size: 488.03911pt x 87.22984pt.
+
+Overfull \hbox (409.50949pt too wide) in paragraph at lines 13--13
+[][] 
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 13.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 17.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 19.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 25.
+
+Overfull \hbox (7.0868pt too wide) in paragraph at lines 13--29
+| [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1
+
+{C:/Users/vobad/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./cabecalho
+.pdf>]
+<figure.jpeg, id=17, 1505.625pt x 735.74875pt>
+File: figure.jpeg Graphic file (type jpg)
+<use figure.jpeg>
+Package pdftex.def Info: figure.jpeg  used on input line 92.
+(pdftex.def)             Requested size: 1505.62134pt x 735.74695pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+LaTeX Font Info:    Try loading font information for T1+phv on input line 132.
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\t1phv.fd"
+File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
+)
+
+Package Fancyhdr Warning: \headheight is too small (14.22636pt): 
+Make it at least 18.23401pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[2 <./figure.jpeg>] (cobem2019.bbl
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 39.
+
+("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 35--40
+[]\T1/ptm/m/n/10 Villani, E., 2004.  \T1/ptm/m/it/10 Mod-e-lagem e Análise De S
+is-temas Su-per-visórios\T1/ptm/m/n/10 .  Ph.D. the-sis.  URL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--50
+[]\T1/ptm/m/n/10 Xinglong, P. and Guo, H., 2011.  ``Re-search on the Ap-pli-ca-
+tion of Dis-crete Event Sys-tem
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--50
+\T1/ptm/m/n/10 Based on Con-trolled Petri Net''.  \T1/ptm/m/it/10 2011 Third In
+-ter-na-tional Con-fer-ence on Mea-sur-ing Tech-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--50
+\T1/ptm/m/it/10 nol-ogy and Mecha-tron-ics Au-toma-tion\T1/ptm/m/n/10 , pp. 91-
+-94.  doi:10.1109/ICMTMA.2011.594.  URL
+ []
+
+) [3] (cobem2019.aux) ) 
+Here is how much of TeX's memory you used:
+ 3656 strings out of 492946
+ 51859 string characters out of 3126267
+ 132626 words of memory out of 3000000
+ 7471 multiletter control sequences out of 15000+200000
+ 31209 words of font info for 37 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,13n,45p,696b,341s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\vobad\AppData\Local\MiKTeX\2.9\fonts/pk/ljfou
+r/jknappen/ec/dpi600\ectt1000.pk>{C:/Users/vobad/AppData/Local/Programs/MiKTeX 
+2.9/fonts/enc/dvips/base/8r.enc}<C:/Users/vobad/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/vobad/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/vobad/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users
+/vobad/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.p
+fb><C:/Users/vobad/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmr7.pfb><C:/Users/vobad/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmsy10.pfb><C:/Users/vobad/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/vobad/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/vobad/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/vobad/AppData/Local/Progra
+ms/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/vobad/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on cobem2019.pdf (3 pages, 892872 bytes).
+PDF statistics:
+ 105 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+
