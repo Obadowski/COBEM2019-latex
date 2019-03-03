@@ -134,9 +134,9 @@ files:
         2.9\miktex\bin\x64;%ProgramFiles(x86)%\MiKTeX 2.9\miktex\bin;$PATH
     type: ParsedYAML
   cobem2019.tex:
-    timeStamp: 2019-03-03T00:37:57.494Z
+    timeStamp: 2019-03-03T00:45:45.403Z
     jobNames: []
-    hash: 5R/uNo2H+EDyYVbCZ3sPwHAoSj/2NiTVoA5H0TQhxlE=
+    hash: QrJJnNpMQH71Vx5BELV7HuaqhSPGrSkjJfIpFkUcRyg=
     type: LaTeX
     subType: article
   'C:\Users\vobad\AppData\Roaming\dicy\config.yaml':
@@ -147,19 +147,19 @@ files:
     jobNames: []
     type: Nil
   cobem2019.log:
-    timeStamp: 2019-03-03T00:38:01.845Z
+    timeStamp: 2019-03-03T00:45:50.930Z
     jobNames: []
-    hash: kjg82gWMQbxZlyRXJ3pBCMmL5Bn2BDZk+26O9s+i9pU=
+    hash: IXpbJRe87/ckkfmzdPvFFdTdtfxtxDH9DCARwsv3LxQ=
     type: LaTeXLog
     subType: pdfTeX
   cobem2019.blg:
-    timeStamp: 2019-03-03T00:38:00.595Z
+    timeStamp: 2019-03-03T00:45:49.578Z
     jobNames: []
     hash: yBiQfc/ZV3pokGKj9hqbmb4waLg2cPXm/lbPeXOV3gU=
     type: BibTeXLog
     subType: BibTeX
   cobem2019.fls-ParsedFileListing:
-    timeStamp: 2019-03-02T20:51:42.449Z
+    timeStamp: 2019-03-03T00:41:51.328Z
     jobNames: []
     value:
       messages: []
@@ -172,12 +172,6 @@ files:
         - >-
           C:\Users\vobad\AppData\Local\Programs\MiKTeX
           2.9\fonts\enc\dvips\base\8r.enc
-        - >-
-          C:\Users\vobad\AppData\Local\Programs\MiKTeX
-          2.9\fonts\tfm\adobe\helvetic\phvr8r.tfm
-        - >-
-          C:\Users\vobad\AppData\Local\Programs\MiKTeX
-          2.9\fonts\tfm\adobe\helvetic\phvr8t.tfm
         - >-
           C:\Users\vobad\AppData\Local\Programs\MiKTeX
           2.9\fonts\tfm\adobe\times\ptmb8r.tfm
@@ -210,36 +204,6 @@ files:
           2.9\fonts\tfm\jknappen\ec\ectt1000.tfm
         - >-
           C:\Users\vobad\AppData\Local\Programs\MiKTeX
-          2.9\fonts\tfm\public\cm\cmbx10.tfm
-        - >-
-          C:\Users\vobad\AppData\Local\Programs\MiKTeX
-          2.9\fonts\tfm\public\cm\cmbx5.tfm
-        - >-
-          C:\Users\vobad\AppData\Local\Programs\MiKTeX
-          2.9\fonts\tfm\public\cm\cmbx7.tfm
-        - >-
-          C:\Users\vobad\AppData\Local\Programs\MiKTeX
-          2.9\fonts\type1\public\amsfonts\cm\cmbx10.pfb
-        - >-
-          C:\Users\vobad\AppData\Local\Programs\MiKTeX
-          2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
-        - >-
-          C:\Users\vobad\AppData\Local\Programs\MiKTeX
-          2.9\fonts\type1\public\amsfonts\cm\cmmi7.pfb
-        - >-
-          C:\Users\vobad\AppData\Local\Programs\MiKTeX
-          2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
-        - >-
-          C:\Users\vobad\AppData\Local\Programs\MiKTeX
-          2.9\fonts\type1\public\amsfonts\cm\cmr7.pfb
-        - >-
-          C:\Users\vobad\AppData\Local\Programs\MiKTeX
-          2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-        - >-
-          C:\Users\vobad\AppData\Local\Programs\MiKTeX
-          2.9\fonts\type1\urw\helvetic\uhvr8a.pfb
-        - >-
-          C:\Users\vobad\AppData\Local\Programs\MiKTeX
           2.9\fonts\type1\urw\times\utmb8a.pfb
         - >-
           C:\Users\vobad\AppData\Local\Programs\MiKTeX
@@ -250,9 +214,6 @@ files:
         - >-
           C:\Users\vobad\AppData\Local\Programs\MiKTeX
           2.9\fonts\type1\urw\times\utmri8a.pfb
-        - >-
-          C:\Users\vobad\AppData\Local\Programs\MiKTeX
-          2.9\fonts\vf\adobe\helvetic\phvr8t.vf
         - >-
           C:\Users\vobad\AppData\Local\Programs\MiKTeX
           2.9\fonts\vf\adobe\times\ptmb8t.vf
@@ -384,9 +345,6 @@ files:
           2.9\tex\latex\psnfss\helvet.sty
         - >-
           C:\Users\vobad\AppData\Local\Programs\MiKTeX
-          2.9\tex\latex\psnfss\t1phv.fd
-        - >-
-          C:\Users\vobad\AppData\Local\Programs\MiKTeX
           2.9\tex\latex\psnfss\t1ptm.fd
         - >-
           C:\Users\vobad\AppData\Local\Programs\MiKTeX
@@ -399,7 +357,6 @@ files:
         - cobem2019.aux
         - cobem2019.bbl
         - cobem2019.tex
-        - figure.jpeg
       outputs:
         - cobem2019.aux
         - cobem2019.log
@@ -407,7 +364,7 @@ files:
       calls: []
     type: ParsedFileListing
   cobem2019.log-ParsedLaTeXLog:
-    timeStamp: 2019-03-03T00:37:39.266Z
+    timeStamp: 2019-03-03T00:45:28.194Z
     jobNames: []
     value:
       messages:
@@ -1113,56 +1070,6 @@ files:
               end: 306
         - severity: info
           name: pdfTeX
-          category: Package pdftex.def
-          text: 'figure.jpeg used Requested size: 1505.62134pt x 735.74695pt.'
-          source:
-            file: cobem2019.tex
-            range:
-              start: 104
-              end: 104
-          log:
-            file: cobem2019.log
-            range:
-              start: 322
-              end: 323
-        - severity: warning
-          name: pdfTeX
-          category: LaTeX
-          text: '`!h'' float specifier changed to `!ht''.'
-          source:
-            file: cobem2019.tex
-          log:
-            file: cobem2019.log
-            range:
-              start: 325
-              end: 325
-        - severity: info
-          name: pdfTeX
-          category: LaTeX Font
-          text: Try loading font information for T1+phv
-          source:
-            file: cobem2019.tex
-            range:
-              start: 141
-              end: 141
-          log:
-            file: cobem2019.log
-            range:
-              start: 327
-              end: 327
-        - severity: warning
-          name: pdfTeX
-          category: Package Fancyhdr
-          text: '\headheight is too small (14.22636pt):'
-          source:
-            file: cobem2019.tex
-          log:
-            file: cobem2019.log
-            range:
-              start: 332
-              end: 332
-        - severity: info
-          name: pdfTeX
           category: LaTeX Font
           text: Try loading font information for T1+cmtt
           source:
@@ -1173,8 +1080,8 @@ files:
           log:
             file: cobem2019.log
             range:
-              start: 338
-              end: 338
+              start: 313
+              end: 313
       inputs: []
       outputs:
         - cobem2019.pdf
@@ -1193,61 +1100,37 @@ files:
       calls: []
     type: ParsedBibTeXLog
   cobem2019.pdf:
-    timeStamp: 2019-03-03T00:38:01.841Z
+    timeStamp: 2019-03-03T00:45:50.925Z
     jobNames: []
-    hash: H/8PEhmXBTTIHnrTGfKfod3gMD3IoEeWvItMGVHxphA=
+    hash: eGDV8VL68cZvIgRp+0VtR01Z0MjW0D1a9y9Ho0GTHrs=
     type: PortableDocumentFormat
   cobem2019.aux:
-    timeStamp: 2019-03-03T00:38:01.786Z
+    timeStamp: 2019-03-03T00:45:50.869Z
     jobNames: []
-    hash: iVT1p0jhvaqM7hPBwHMLTYTnYLPrbqgcOmjIMZ6BeWQ=
+    hash: /I2V3J3iI2Swk0zG4K6Gch73hud+8+XJNc4nK1aFcww=
     type: LaTeXAuxilary
   cobem2019.fls:
-    timeStamp: 2019-03-03T00:38:01.882Z
+    timeStamp: 2019-03-03T00:45:50.982Z
     jobNames: []
-    hash: ZA+g1ih/IT8EYhFVn08010wus01U3KWiy1wyxGycWAU=
+    hash: nJ1AC62g4fmi91ASg3i34/mfkvtuxfKTYZr7oCMTHAs=
     type: FileListing
   cobem2019.synctex.gz:
-    timeStamp: 2019-03-03T00:38:01.843Z
+    timeStamp: 2019-03-03T00:45:50.927Z
     jobNames: []
-    hash: c63hYEVudVMefED70h8OUYGvpZmBQBuQfxBB2xr984M=
+    hash: iC0U/J1Nby6jTMMYDMkYH5tbwv6cHfEnf7968Q27BC0=
     type: SyncTeX
   cobem2019.aux-ParsedLaTeXAuxilary:
-    timeStamp: 2019-03-03T00:37:37.344Z
+    timeStamp: 2019-03-03T00:45:25.902Z
     jobNames: []
     value:
       commands:
         - relax
         - citation
-        - citation
-        - citation
-        - citation
-        - citation
-        - citation
-        - babel@aux
-        - '@writefile'
-        - '@writefile'
-        - '@writefile'
-        - '@writefile'
-        - '@writefile'
-        - citation
-        - citation
-        - citation
-        - '@writefile'
-        - '@writefile'
-        - newlabel
-        - newlabel
-        - '@writefile'
-        - '@writefile'
-        - newlabel
         - bibstyle
         - bibdata
         - bibcite
-        - bibcite
-        - bibcite
-        - bibcite
-        - bibcite
-        - bibcite
+        - babel@aux
+        - '@writefile'
         - '@writefile'
         - newlabel
         - '@writefile'
@@ -1529,9 +1412,9 @@ files:
     hash: iMbwnh5K/wfPX4IdxcMCZPElbIkO3TwrcWaX8scLPA0=
     type: PortableDocumentFormat
   cobem2019.bbl:
-    timeStamp: 2019-03-03T00:38:00.593Z
+    timeStamp: 2019-03-03T00:45:49.577Z
     jobNames: []
-    hash: AAMkiueV2fB32GvVZrd3wYE4snDaWdgkUnxnd1trRMo=
+    hash: KiX3DEB3o2a0XfyENyWFl+oOSzabt9a2awgj3ECYkI8=
   figure.jpeg:
     timeStamp: 2018-08-09T19:59:56.000Z
     jobNames: []

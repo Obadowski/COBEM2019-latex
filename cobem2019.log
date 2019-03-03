@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.2)  2 MAR 2019 21:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.2)  2 MAR 2019 21:45
 entering extended mode
 **"C:/Users/vobad/OneDrive/Estudos/USP/COBEM 2019/LaTeX/cobem2019.tex"
 ("C:/Users/vobad/OneDrive/Estudos/USP/COBEM 2019/LaTeX/cobem2019.tex"
@@ -309,32 +309,7 @@ Overfull \hbox (7.0868pt too wide) in paragraph at lines 13--29
 | [] 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[1
-
-{C:/Users/vobad/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/vo
-bad/OneDrive/Estudos/USP/COBEM 2019/LaTeX/cabecalho.pdf>]
-<figure.jpeg, id=17, 1505.625pt x 735.74875pt>
-File: figure.jpeg Graphic file (type jpg)
-<use figure.jpeg>
-Package pdftex.def Info: figure.jpeg  used on input line 104.
-(pdftex.def)             Requested size: 1505.62134pt x 735.74695pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-LaTeX Font Info:    Try loading font information for T1+phv on input line 141.
-("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\t1phv.fd"
-File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
-)
-
-Package Fancyhdr Warning: \headheight is too small (14.22636pt): 
-Make it at least 18.23401pt.
-We now make it that large for the rest of the document.
-This may cause the page layout to be inconsistent, however.
-
-[2] ("C:\Users\vobad\OneDrive\Estudos\USP\COBEM 2019\LaTeX\cobem2019.bbl"
+("C:\Users\vobad\OneDrive\Estudos\USP\COBEM 2019\LaTeX\cobem2019.bbl"
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 18.
 ("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
@@ -350,53 +325,29 @@ Underfull \hbox (badness 5008) in paragraph at lines 12--19
  Seção 1 - 26/9/2013, Página 1\T1/ptm/m/n/10 , p. 155.  URL
  []
 
+) [1
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--59
-[]\T1/ptm/m/n/10 Xinglong, P. and Guo, H., 2011.  ``Re-search on the Ap-pli-ca-
-tion of Dis-crete Event Sys-tem
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 51--59
-\T1/ptm/m/n/10 Based on Con-trolled Petri Net''.  \T1/ptm/m/it/10 2011 Third In
--ter-na-tional Con-fer-ence on Mea-sur-ing Tech-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 51--59
-\T1/ptm/m/it/10 nol-ogy and Mecha-tron-ics Au-toma-tion\T1/ptm/m/n/10 , pp. 91-
--94.  doi:10.1109/ICMTMA.2011.594.  URL
- []
-
-) [3 <C:/Users/vobad/OneDrive/Estudos/USP/COBEM 2019/LaTeX/figure.jpeg>] ("C:\U
-sers\vobad\OneDrive\Estudos\USP\COBEM 2019\LaTeX\cobem2019.aux") ) 
+{C:/Users/vobad/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/vo
+bad/OneDrive/Estudos/USP/COBEM 2019/LaTeX/cabecalho.pdf>] ("C:\Users\vobad\OneD
+rive\Estudos\USP\COBEM 2019\LaTeX\cobem2019.aux") ) 
 Here is how much of TeX's memory you used:
- 3661 strings out of 492946
- 52288 string characters out of 3126267
- 133651 words of memory out of 3000000
- 7474 multiletter control sequences out of 15000+200000
- 31209 words of font info for 37 fonts, out of 3000000 for 9000
+ 3577 strings out of 492946
+ 51115 string characters out of 3126267
+ 128389 words of memory out of 3000000
+ 7400 multiletter control sequences out of 15000+200000
+ 23026 words of font info for 29 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,13n,45p,749b,341s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\vo
-bad\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk>{C:
-/Users/vobad/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/
-Users/vobad/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-bx10.pfb><C:/Users/vobad/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
-msfonts/cm/cmmi10.pfb><C:/Users/vobad/AppData/Local/Programs/MiKTeX 2.9/fonts/t
-ype1/public/amsfonts/cm/cmmi7.pfb><C:/Users/vobad/AppData/Local/Programs/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/vobad/AppData/Local/Pro
-grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/vobad/AppDat
-a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users
-/vobad/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C
-:/Users/vobad/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pf
-b><C:/Users/vobad/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmbi
-8a.pfb><C:/Users/vobad/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/
-utmr8a.pfb><C:/Users/vobad/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/ti
-mes/utmri8a.pfb>
-Output written on cobem2019.pdf (3 pages, 897672 bytes).
+ 41i,10n,45p,628b,238s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\vobad\AppData\Loc
+al\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk>{C:/Users/vobad/Ap
+pData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Users/vobad/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/vobad
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/
+vobad/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Us
+ers/vobad/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on cobem2019.pdf (1 page, 544913 bytes).
 PDF statistics:
- 114 PDF objects out of 1000 (max. 8388607)
+ 64 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
