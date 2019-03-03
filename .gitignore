@@ -1,0 +1,6 @@
+*.aux
+*.yaml
+*.fls
+*.log
+*.pdf
+*.synctex.gz
