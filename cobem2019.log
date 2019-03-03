@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.2)  2 MAR 2019 20:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.2)  2 MAR 2019 21:38
 entering extended mode
 **"C:/Users/vobad/OneDrive/Estudos/USP/COBEM 2019/LaTeX/cobem2019.tex"
 ("C:/Users/vobad/OneDrive/Estudos/USP/COBEM 2019/LaTeX/cobem2019.tex"
@@ -335,23 +335,35 @@ We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
 [2] ("C:\Users\vobad\OneDrive\Estudos\USP\COBEM 2019\LaTeX\cobem2019.bbl"
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 39.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 18.
 ("C:\Users\vobad\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-Underfull \hbox (badness 10000) in paragraph at lines 42--50
+Underfull \hbox (badness 5008) in paragraph at lines 12--19
+[]\T1/ptm/m/n/10 Brasil, 2013.  ``Política Na-cional de De-fesa, a Es-traté-gia
+ Na-cional de De-fesa e o Livro Branco de
+ []
+
+
+Underfull \hbox (badness 5008) in paragraph at lines 12--19
+\T1/ptm/m/n/10 De-fesa Na-cional''.  \T1/ptm/m/it/10 Diário Ofi-cial da União -
+ Seção 1 - 26/9/2013, Página 1\T1/ptm/m/n/10 , p. 155.  URL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--59
 []\T1/ptm/m/n/10 Xinglong, P. and Guo, H., 2011.  ``Re-search on the Ap-pli-ca-
 tion of Dis-crete Event Sys-tem
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--50
+Underfull \hbox (badness 10000) in paragraph at lines 51--59
 \T1/ptm/m/n/10 Based on Con-trolled Petri Net''.  \T1/ptm/m/it/10 2011 Third In
 -ter-na-tional Con-fer-ence on Mea-sur-ing Tech-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--50
+Underfull \hbox (badness 10000) in paragraph at lines 51--59
 \T1/ptm/m/it/10 nol-ogy and Mecha-tron-ics Au-toma-tion\T1/ptm/m/n/10 , pp. 91-
 -94.  doi:10.1109/ICMTMA.2011.594.  URL
  []
@@ -359,10 +371,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--50
 ) [3 <C:/Users/vobad/OneDrive/Estudos/USP/COBEM 2019/LaTeX/figure.jpeg>] ("C:\U
 sers\vobad\OneDrive\Estudos\USP\COBEM 2019\LaTeX\cobem2019.aux") ) 
 Here is how much of TeX's memory you used:
- 3658 strings out of 492946
- 52234 string characters out of 3126267
- 132626 words of memory out of 3000000
- 7471 multiletter control sequences out of 15000+200000
+ 3661 strings out of 492946
+ 52288 string characters out of 3126267
+ 133651 words of memory out of 3000000
+ 7474 multiletter control sequences out of 15000+200000
  31209 words of font info for 37 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,13n,45p,749b,341s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -382,9 +394,9 @@ b><C:/Users/vobad/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmbi
 8a.pfb><C:/Users/vobad/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/
 utmr8a.pfb><C:/Users/vobad/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/ti
 mes/utmri8a.pfb>
-Output written on cobem2019.pdf (3 pages, 893453 bytes).
+Output written on cobem2019.pdf (3 pages, 897672 bytes).
 PDF statistics:
- 105 PDF objects out of 1000 (max. 8388607)
+ 114 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

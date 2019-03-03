@@ -134,9 +134,9 @@ files:
         2.9\miktex\bin\x64;%ProgramFiles(x86)%\MiKTeX 2.9\miktex\bin;$PATH
     type: ParsedYAML
   cobem2019.tex:
-    timeStamp: 2019-03-02T23:27:30.183Z
+    timeStamp: 2019-03-03T00:37:57.494Z
     jobNames: []
-    hash: D3m6AuKo/Y1nQ9/Tou3I953iyt08Jc+FpJCmIhEl77U=
+    hash: 5R/uNo2H+EDyYVbCZ3sPwHAoSj/2NiTVoA5H0TQhxlE=
     type: LaTeX
     subType: article
   'C:\Users\vobad\AppData\Roaming\dicy\config.yaml':
@@ -147,13 +147,13 @@ files:
     jobNames: []
     type: Nil
   cobem2019.log:
-    timeStamp: 2019-03-02T23:27:40.226Z
+    timeStamp: 2019-03-03T00:38:01.845Z
     jobNames: []
-    hash: gyaTQ+sTpEeQkbm29Zt6L++5WelhkVCKK6pXsB5SUv8=
+    hash: kjg82gWMQbxZlyRXJ3pBCMmL5Bn2BDZk+26O9s+i9pU=
     type: LaTeXLog
     subType: pdfTeX
   cobem2019.blg:
-    timeStamp: 2019-03-02T23:27:39.106Z
+    timeStamp: 2019-03-03T00:38:00.595Z
     jobNames: []
     hash: yBiQfc/ZV3pokGKj9hqbmb4waLg2cPXm/lbPeXOV3gU=
     type: BibTeXLog
@@ -407,7 +407,7 @@ files:
       calls: []
     type: ParsedFileListing
   cobem2019.log-ParsedLaTeXLog:
-    timeStamp: 2019-03-02T23:27:40.402Z
+    timeStamp: 2019-03-03T00:37:39.266Z
     jobNames: []
     value:
       messages:
@@ -1168,8 +1168,8 @@ files:
           source:
             file: cobem2019.bbl
             range:
-              start: 39
-              end: 39
+              start: 18
+              end: 18
           log:
             file: cobem2019.log
             range:
@@ -1193,31 +1193,32 @@ files:
       calls: []
     type: ParsedBibTeXLog
   cobem2019.pdf:
-    timeStamp: 2019-03-02T23:27:40.221Z
+    timeStamp: 2019-03-03T00:38:01.841Z
     jobNames: []
-    hash: YPcE1ZSqKFSADluEoww+bT0EFU+563ONewaxfbJ29i0=
+    hash: H/8PEhmXBTTIHnrTGfKfod3gMD3IoEeWvItMGVHxphA=
     type: PortableDocumentFormat
   cobem2019.aux:
-    timeStamp: 2019-03-02T23:27:40.168Z
+    timeStamp: 2019-03-03T00:38:01.786Z
     jobNames: []
-    hash: Sjg/TuRQH2x2BsmfW9Rkfti+4mPdN6FE2DDvNCyZzSc=
+    hash: iVT1p0jhvaqM7hPBwHMLTYTnYLPrbqgcOmjIMZ6BeWQ=
     type: LaTeXAuxilary
   cobem2019.fls:
-    timeStamp: 2019-03-02T23:27:40.270Z
+    timeStamp: 2019-03-03T00:38:01.882Z
     jobNames: []
     hash: ZA+g1ih/IT8EYhFVn08010wus01U3KWiy1wyxGycWAU=
     type: FileListing
   cobem2019.synctex.gz:
-    timeStamp: 2019-03-02T23:27:40.223Z
+    timeStamp: 2019-03-03T00:38:01.843Z
     jobNames: []
-    hash: OVdBTGupu27mS8PPURzaGbQkDSuVaimswAX23r6Yf5Q=
+    hash: c63hYEVudVMefED70h8OUYGvpZmBQBuQfxBB2xr984M=
     type: SyncTeX
   cobem2019.aux-ParsedLaTeXAuxilary:
-    timeStamp: 2019-03-02T21:52:03.296Z
+    timeStamp: 2019-03-03T00:37:37.344Z
     jobNames: []
     value:
       commands:
         - relax
+        - citation
         - citation
         - citation
         - citation
@@ -1241,6 +1242,7 @@ files:
         - newlabel
         - bibstyle
         - bibdata
+        - bibcite
         - bibcite
         - bibcite
         - bibcite
@@ -1527,9 +1529,9 @@ files:
     hash: iMbwnh5K/wfPX4IdxcMCZPElbIkO3TwrcWaX8scLPA0=
     type: PortableDocumentFormat
   cobem2019.bbl:
-    timeStamp: 2019-03-02T23:27:39.104Z
+    timeStamp: 2019-03-03T00:38:00.593Z
     jobNames: []
-    hash: cj4QaZrp6De39nFHYhADG+66Gmvnq8+q6R234+7tW5c=
+    hash: AAMkiueV2fB32GvVZrd3wYE4snDaWdgkUnxnd1trRMo=
   figure.jpeg:
     timeStamp: 2018-08-09T19:59:56.000Z
     jobNames: []

@@ -1,4 +1,4 @@
-\begin{thebibliography}{5}
+\begin{thebibliography}{6}
 \newcommand{\enquote}[1]{``#1''}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
@@ -7,6 +7,15 @@
   \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
   \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
   \urlstyle{rm}\Url}\fi
+
+\bibitem[{Brasil(2013)}]{Brasil2013}
+Brasil, 2013.
+\newblock \enquote{{Pol{\'{i}}tica Nacional de Defesa, a Estrat{\'{e}}gia
+  Nacional de Defesa e o Livro Branco de Defesa Nacional}}.
+\newblock \emph{Di{\'{a}}rio Oficial da Uni{\~{a}}o - Se{\c{c}}{\~{a}}o 1 -
+  26/9/2013, P{\'{a}}gina 1}, p. 155.
+\newblock
+  \urlprefix\url{http://www.defesa.gov.br/arquivos/estado{\_}e{\_}defesa/END-PND{\_}Optimized.pdf}.
 
 \bibitem[{Machado \emph{et~al.}(2011)Machado, Rodigues and
   Nascimento}]{Machado2011}
