@@ -1,6 +1,6 @@
-*.aux
 *.yaml
+*.aux
+*.blg
 *.fls
-*.log
 cobem2019.pdf
 *.synctex.gz
