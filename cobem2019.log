@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.2)  2 MAR 2019 21:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.2)  2 MAR 2019 22:11
 entering extended mode
 **"C:/Users/vobad/OneDrive/Estudos/USP/COBEM 2019/LaTeX/cobem2019.tex"
 ("C:/Users/vobad/OneDrive/Estudos/USP/COBEM 2019/LaTeX/cobem2019.tex"
@@ -331,10 +331,10 @@ Underfull \hbox (badness 5008) in paragraph at lines 12--19
 bad/OneDrive/Estudos/USP/COBEM 2019/LaTeX/cabecalho.pdf>] ("C:\Users\vobad\OneD
 rive\Estudos\USP\COBEM 2019\LaTeX\cobem2019.aux") ) 
 Here is how much of TeX's memory you used:
- 3577 strings out of 492946
- 51115 string characters out of 3126267
- 128389 words of memory out of 3000000
- 7400 multiletter control sequences out of 15000+200000
+ 3583 strings out of 492946
+ 51200 string characters out of 3126267
+ 129456 words of memory out of 3000000
+ 7406 multiletter control sequences out of 15000+200000
  23026 words of font info for 29 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,10n,45p,628b,238s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -345,7 +345,7 @@ Data/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/vobad
 /AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/
 vobad/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Us
 ers/vobad/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on cobem2019.pdf (1 page, 544913 bytes).
+Output written on cobem2019.pdf (1 page, 547436 bytes).
 PDF statistics:
  64 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

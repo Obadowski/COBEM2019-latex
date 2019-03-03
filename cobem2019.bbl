@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{2}
 \newcommand{\enquote}[1]{``#1''}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
@@ -16,5 +16,12 @@ Brasil, 2013.
   26/9/2013, P{\'{a}}gina 1}, p. 155.
 \newblock
   \urlprefix\url{http://www.defesa.gov.br/arquivos/estado{\_}e{\_}defesa/END-PND{\_}Optimized.pdf}.
+
+\bibitem[{Miyagi(1996)}]{Miyagi1996}
+Miyagi, P.E., 1996.
+\newblock \emph{{Controle Program{\'{a}}vel: fundamento do controle de sistemas
+  a eventos discretos}}.
+\newblock Bl{\"{u}}cher, S{\~{a}}o Paulo, 1st edition.
+\newblock ISBN 978-85-212-0079-6.
 
 \end{thebibliography}
