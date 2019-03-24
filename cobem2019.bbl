@@ -1,4 +1,4 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{12}
 \newcommand{\enquote}[1]{``#1''}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
@@ -51,6 +51,14 @@ Cooper, K., Mit, J.C., Usc, B.L., Msu, A.C., Usc, R.L. and Ut, A.G., 2017.
 \newblock \emph{2017 IEEE Electric Ship Technologies Symposium (ESTS)}, Vol.
   0196, No. April 2017, pp. 96--103.
 
+\bibitem[{Garcia \emph{et~al.}(2008)Garcia, Morales and Miyagi}]{Garcia2008}
+Garcia, J.I., Morales, R.A. and Miyagi, P.E., 2008.
+\newblock \enquote{{Supervisory system for hybrid productive systems based on
+  Bayesian networks and OO-DPT Nets}}.
+\newblock \emph{IEEE International Conference on Emerging Technologies and
+  Factory Automation, ETFA}, pp. 1108--1112.
+\newblock \doi{10.1109/ETFA.2008.4638536}.
+
 \bibitem[{Geertsma \emph{et~al.}(2017)Geertsma, Negenborn, Visser and
   Hopman}]{Geertsma2017}
 Geertsma, R.D., Negenborn, R.R., Visser, K. and Hopman, J.J., 2017.
@@ -89,5 +97,11 @@ Villani, E., 2004.
 \newblock Ph.D. thesis, Universidade de S{\~{a}}o Paulo.
 \newblock
   \urlprefix\url{http://www.teses.usp.br/teses/disponiveis/3/3132/tde-08062004-131133/}.
+
+\bibitem[{Villani \emph{et~al.}(2007)Villani, Miyagi and Valette}]{Villani2007}
+Villani, E., Miyagi, P.E. and Valette, R., 2007.
+\newblock \emph{{Modelling and Analysis of Hybrid Supervisory Systems: A Petri
+  Net Approach (Advances in Industrial Control)}}.
+\newblock Springer, London.
 
 \end{thebibliography}
