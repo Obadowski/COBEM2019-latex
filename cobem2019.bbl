@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 \newcommand{\enquote}[1]{``#1''}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
@@ -8,11 +8,86 @@
   \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
   \urlstyle{rm}\Url}\fi
 
+\bibitem[{Brasil(2013)}]{Brasil2013}
+Brasil, 2013.
+\newblock \enquote{{Pol{\'{i}}tica Nacional de Defesa, a Estrat{\'{e}}gia
+  Nacional de Defesa e o Livro Branco de Defesa Nacional}}.
+\newblock \emph{Di{\'{a}}rio Oficial da Uni{\~{a}}o - Se{\c{c}}{\~{a}}o 1 -
+  26/9/2013, P{\'{a}}gina 1}, p. 155.
+\newblock
+  \urlprefix\url{http://www.defesa.gov.br/arquivos/estado{\_}e{\_}defesa/END-PND{\_}Optimized.pdf}.
+
+\bibitem[{Chalfant(2015)}]{Chalfant2015}
+Chalfant, J., 2015.
+\newblock \enquote{{Early-Stage Design for Electric Ship}}.
+\newblock \emph{Proceedings of the IEEE}, Vol. 103, No.~12, pp. 2252--2266.
+\newblock ISSN 0018-9219.
+\newblock \doi{10.1109/JPROC.2015.2459672}.
+\newblock \urlprefix\url{http://ieeexplore.ieee.org/document/7214206/}.
+
+\bibitem[{Chalfant \emph{et~al.}(2017)Chalfant, Langland, Rigterink, Sarles,
+  McCauley, Woodward, Brown and Ames}]{Chalfant2017b}
+Chalfant, J., Langland, B., Rigterink, D., Sarles, C., McCauley, P., Woodward,
+  D., Brown, A. and Ames, R., 2017.
+\newblock \enquote{{Smart Ship System Design (S3D) integration with the leading
+  edge architecture for Prototyping Systems (LEAPS)}}.
+\newblock In \emph{2017 IEEE Electric Ship Technologies Symposium (ESTS)}.
+  IEEE, pp. 104--110.
+\newblock ISBN 978-1-5090-4944-8.
+\newblock \doi{10.1109/ESTS.2017.8069267}.
+\newblock \urlprefix\url{http://ieeexplore.ieee.org/document/8069267/}.
+
+\bibitem[{Chung(2004)}]{Chung2004}
+Chung, C.A., 2004.
+\newblock \emph{{Simulation Modeling Handbook: a Practical Approach}}.
+\newblock CRC Press.
+\newblock ISBN 0849312418.
+
+\bibitem[{Cooper \emph{et~al.}(2017)Cooper, Mit, Usc, Msu, Usc and
+  Ut}]{Cooper2017}
+Cooper, K., Mit, J.C., Usc, B.L., Msu, A.C., Usc, R.L. and Ut, A.G., 2017.
+\newblock \enquote{{Using S3D to Analyze Ship System Alternatives for a 100 MW
+  10 , 000 ton Surface Combatant}}.
+\newblock \emph{2017 IEEE Electric Ship Technologies Symposium (ESTS)}, Vol.
+  0196, No. April 2017, pp. 96--103.
+
+\bibitem[{Geertsma \emph{et~al.}(2017)Geertsma, Negenborn, Visser and
+  Hopman}]{Geertsma2017}
+Geertsma, R.D., Negenborn, R.R., Visser, K. and Hopman, J.J., 2017.
+\newblock \enquote{{Design and control of hybrid power and propulsion systems
+  for smart ships: A review of developments}}.
+\newblock \emph{Applied Energy}, Vol. 194, pp. 30--54.
+\newblock ISSN 03062619.
+\newblock \doi{10.1016/j.apenergy.2017.02.060}.
+\newblock \urlprefix\url{http://dx.doi.org/10.1016/j.apenergy.2017.02.060}.
+
+\bibitem[{Langland \emph{et~al.}(2015)Langland, Leonard, Smart and
+  Dougal}]{Langland2015}
+Langland, B., Leonard, R., Smart, R. and Dougal, R.A., 2015.
+\newblock \enquote{{Modeling and data exchange in a concurrent and
+  collaborative design environment for electric ships}}.
+\newblock \emph{2015 IEEE Electric Ship Technologies Symposium, ESTS 2015}, pp.
+  388--394.
+\newblock \doi{10.1109/ESTS.2015.7157924}.
+
 \bibitem[{Miyagi(1996)}]{Miyagi1996}
 Miyagi, P.E., 1996.
 \newblock \emph{{Controle Program{\'{a}}vel: fundamento do controle de sistemas
   a eventos discretos}}.
 \newblock Bl{\"{u}}cher, S{\~{a}}o Paulo, 1st edition.
 \newblock ISBN 978-85-212-0079-6.
+
+\bibitem[{Pereira(2016)}]{Pereira2016}
+Pereira, M.H., 2016.
+\newblock \emph{{Modelo de Otimiza{\c{c}}{\~{a}}o Multiobjetivo Aplicado ao
+  Projeto de Concep{\c{c}}{\~{a}}o de Submarinos Convencionais}}.
+\newblock Ph.D. thesis, Universidade de S{\~{a}}o Paulo.
+
+\bibitem[{Villani(2004)}]{Villani2004}
+Villani, E., 2004.
+\newblock \emph{{Modelagem e An{\'{a}}lise De Sistemas Supervis{\'{o}}rios}}.
+\newblock Ph.D. thesis, Universidade de S{\~{a}}o Paulo.
+\newblock
+  \urlprefix\url{http://www.teses.usp.br/teses/disponiveis/3/3132/tde-08062004-131133/}.
 
 \end{thebibliography}
