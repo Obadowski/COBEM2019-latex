@@ -95,15 +95,18 @@
 
 	Having in mind the initial goal, that is build a model that can be used by submarine designers to enhance their work, this model should follow the guidelines adopted by them in order to represent the ideas and concepts chosen. The first step, according to methodology presented in last section, is to define the flows of materials, which in the case of submarine are the electrical power that flows along the network -- from batteries to loads during autonomous operation, and from diesel generators to batteries and loads during recharging operation -- in addition, there is the propulsion actuators that change accordingly to current operation set by operator and external continuous parameters, such as fuel and ship speed that changes over time.
 
-	Based on those, a Production Flow Schema (PFS) \citep{Miyagi1996} was conceived taking into account these particularities as well as operational behavior expected from submarine. Figure~\ref{fig:PFS} illustrates all activities
+	Based on those, a Production Flow Schema (PFS) \citep{Miyagi1996} was conceived taking into account these particularities as well as operational behavior expected from submarine. Figure~\ref{fig:PFS} illustrates all activities performed by submarine when navigating on open sea. It is important to remark that this model does not take into account neither submarine  startup nor its shutdown.
 
 	\begin{figure}[h!]
 		\centering
-		\includegraphics[angle=0, scale=0.200]{PFS-navegacao.png}
+		\includegraphics[angle=0, scale=0.300]{PFS-navegacao.png}
 		\caption{Model in PFS of Submarine navigation}
 		\label{fig:PFS}
 	\end{figure}
 
+	Accordingly to the model in PFS presented in Fig.~\ref{fig:PFS}, it is possible to further steps of methodology, describing use cases of this model, in order to identify scenarios that might be explored by the user. After, it is done a refinement of each use case in Unified Modelling Language (UML) then the classes and objects for the model are defined.
+
+	As soon all previous steps are defined, it is necessary to build sequence and collaboration diagrams that will identify methods and attributes for each class, giving how each object is related. Then, with complete definition of classes and use cases, the model can be written in the form of OO-DPT networks with aid of class diagrams. Finally, it is necessary to verify consistency between models and whether they represent or not the target system.
 
 	% %ACKNOWLEDGEMENTS section
 	% \section{ACKNOWLEDGEMENTS}
